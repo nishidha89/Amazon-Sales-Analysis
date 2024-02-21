@@ -4,7 +4,9 @@ To find insights from Amazon Sales data by analyzing different variables which i
 
 # Attributes in the dataset
 Order ID 
+
 Date 
+
 Status
 Sales Channel
 ship-service-level
