@@ -8,24 +8,43 @@ Order ID
 Date 
 
 Status
+
 Sales Channel
+
 ship-service-level
+
 Style
+
 SKU
+
 Category
+
 Size
+
 ASIN
+
 Courier Status
+
 Qty
+
 currency
+
 Amount
+
 ship-city
+
 ship-state
+
 ship-postal-code
+
 ship-country
+
 promotion-ids
+
 B2B
+
 fulfilled-by
+
 Unnamed:22
 
 # The analysis seeks to answer the following questions:
