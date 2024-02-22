@@ -52,7 +52,7 @@ Unnamed:22
 2. Which ship-service-level is more?
 3. Which percentage of orders are processed by Expedited shipment service level and Standard shipment service level?
 4. What is majority courier status?
-5. Which size have more quantity
+5. Which size have more quantity?
 6. Which cloth customers preferred to buy most?
 7. How many percentage are retailers and B2B buyers?
 8. How many orders are fulfilled by Amazon vs Merchant?
